@@ -1,2 +1,2 @@
 # learning-stuff
-Storage for everything worth knowing
+Personal storage for everything worth knowing
